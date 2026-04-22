@@ -1,0 +1,24 @@
+a.sub-item-link {
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+a:link {
+  color: rgb(0, 89, 255);
+}
+
+a:visited {
+  color: rgb(173, 19, 173);
+}
+
+a:hover {
+  color: rgb(255, 0, 128);
+}
+
+a:focus {
+  outline: 3px solid green;
+}
+
+a:active {
+  color: blueviolet;
+}
